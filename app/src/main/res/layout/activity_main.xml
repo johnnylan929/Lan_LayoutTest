@@ -13,6 +13,45 @@
         android:layout_weight="1"
         android:background="#FF8000">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#AFAF61"
+            android:textSize="20sp"
+            android:text="上1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#8F4586"
+            android:textSize="20sp"
+            android:text="上2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#FFD306"
+            android:textSize="20sp"
+            android:text="上3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#B7FF4A"
+            android:textSize="20sp"
+            android:text="上4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:textSize="20sp"
+            android:text="上5"/>
+
     </LinearLayout>
 
     <LinearLayout
@@ -21,6 +60,34 @@
         android:orientation="vertical"
         android:layout_weight="1"
         android:background="#6FB7B7">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#B15BFF"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFF37"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#CF9E9E"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#6A6AFF"
+            android:layout_weight="1"
+            />
 
     </LinearLayout>
 </LinearLayout>
